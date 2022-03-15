@@ -3,7 +3,7 @@
 
 # Covid Genome Analysis
 
-Analyze the RNA sequence of COVID and its major variants
+Analyzing the RNA sequence of COVID and its major variants
 
 
 > [Dataset](https://drive.google.com/file/d/1S2ZDjdRkY78kZxBtc9YNUh0mByTHXQ23/view?usp=sharing)
